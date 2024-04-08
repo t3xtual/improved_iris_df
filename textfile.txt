@@ -1,6 +1,0 @@
-need to:
-  Import matplotlib.pyplot
-  import pandas
-  import numpy
-  import streamlit
-  import seaborn
